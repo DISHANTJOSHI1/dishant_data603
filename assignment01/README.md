@@ -21,16 +21,15 @@ _The six 'v's are as follows_
 
 
 ### Phases of Big Data analysis
-* Phase 1: Data Acquisition and Recording:  
-* Database Management: MySQL, Oracle DBMS
-* Machine Learning, Data Analysis, AWS, REST API, GraphQL API
-* Data Visualization Using Tableau, Data Structure, Web Scrapping
-* Proficient in Office 365- Word, Excel, PowerPoint, Github, Git
-* Dedicated to meeting deadlines and the needs of the organization
+* **Phase 1: Data Acquisition and Recording-** For big data analysis, we collect data from various sources like sensors, IoT, social media and many other digital platforms. But much of the data is not in the form we need and it needs to be filtered and compressed. We only consider data of our interest and discard rest of the data. 
+* **Phase 2: Information Extraction and Cleaning-** The data we collect is huge and it contains noise which adulterate the analysis process. So we extract the data and make it in structured form. By using different data tools we clean the data for further analysis. 
+* **Phase 3: Data Integration, Aggregation, and Representation-** As mentioned earlier, data is being collected from multiple source and these data needs to be integrated based on the demand which can help to reduce redundency.We use different data visualization tools like tableau, power-bi, etc. to visualiza the data and get obeservations from big data.
+* **Phase 4: Query Processing, Data Modeling, and Analysis-** With the help of query, we get subset of the data. Then, we have data modelling in which we create ML model and try to make different predictions helpful in decision making in businesses. 
+* **Phase 5: Interpretation-** It is important to interprete the data. Verify whether the outputs make any sense and is it answering the questions we have as a data scientist.
 
 
-## WORK EXPERIENCE
-* **Associate Software Developer**, Softobiz Technologies Pvt Ltd., Mohali, India  ; Nov 2020 - Aug 2021
+### Challenges in Big Data analysis
+* **AChallenge 1: Heterogeneity and Incompleteness**
   *	Responsible for creating graphQL & REST APIs using NodeJS, TypeOrm, SQL Server and Typescript. 
   *	Created modules like session & login modules of a web application using microservice architecture.
   *	Trained and mentored a new team member for smooth on-boarding and replacement.
