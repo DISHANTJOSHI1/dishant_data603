@@ -1,5 +1,4 @@
 # Dishant Fapot
-## I edited to see
 
 ### Big Data with example and types
 _Big Data is a collection of huge data coming from variety of online or offline sources in digital form growing exponentially. Types of Big Datas are as follows:_
