@@ -29,41 +29,13 @@ _The six 'v's are as follows_
 
 
 ### Challenges in Big Data analysis
-* **AChallenge 1: Heterogeneity and Incompleteness**
-  *	Responsible for creating graphQL & REST APIs using NodeJS, TypeOrm, SQL Server and Typescript. 
-  *	Created modules like session & login modules of a web application using microservice architecture.
-  *	Trained and mentored a new team member for smooth on-boarding and replacement.
-  *	Communicated effectively with supervisors regarding customer/client issues
-  *	Participated in cultural activities and training sessions designed to foster rapport among colleagues. 
+* **Challenge 1: Heterogeneity and Incompleteness-** Algorithms for machine analysis expect homogenous data and are unable to comprehend subtlety or any other kind of small variations. More research is needed to effectively represent, access, and analyze semi-structured data.  There may still be some incompleteness and inaccuracies in the data even after data cleaning and error rectification.
 
-* **Data Analyst Intern**, Cloudstrats Technologies Private Limited, Mumbai, India      ; Nov 2020 - Apr 2021  
-  *	Manifested strong multitasking skills by working part time with this company along with a full-time job at other company
-  *	Worked on the technologies like Office 365, Tableau and azure Machine Learning.
-  *	Handled internal projects by initiating Data Pre-Processing techniques and Visualizing Data with Tableau and reporting the same to Sr. Data Analyst.
-  *	Responsible for the ‘Narad’ project that helped to contain the spread of Covid-19 in Mumbai slums. 
+* **Challenge 2: Scale-** Data volume is increasing more quickly than computing capacity.  Many expect that data will rise exponentially. and in this situation utilizing cloud computing is a viable alternative. Altering the storage subsystem might have an impact on all aspects of data processing as it can speed up or slow down the processing of big data.
 
+* **Challenge 3: Timeliness-** Considering how time critiacal some decisions are, computing big data can sometimes take hours which is not ideal. Many of queris also take longer time to process. Hence timeliness of big data is a challenge.
 
-## PROJECTS
-* **Car Selling Price Prediction and Deployment: python | scikit-learn | Flask | HTML**	[(Demo)](https://used-car-selling-price-india.herokuapp.com/)
-  *	Created a fully functional web application deployed on Heroku cloud platform that predicts used cars selling price based on features like showroom price, purchasing year, engine type, etc.
-  * Backend powered by machine learning model using Random Forest Regression algorithm.
-  * Flask is used for integration of HTML for frontend and Machine Learning Model.
+* **Challenge 4: Privacy-** With big data growing exponentially it is getting more and more difficult to secure this data from red hat hackers.Big data is easy to extract based on location, time and other data attribute.
 
-* **Election, Unemployment and Minimum Wage Relation Analysis: Jupyter Notebook | Python**	[(Github)](https://github.com/DISHANTJOSHI1/Data-Anlysis-Projects/blob/main/Project%20_3_final.ipynb)
-  * Followed a step-by-step approach to extract insights from the data using python lib. like numpy, pandas, seaborn. matplotlib.
-  * Analyzed relation between US election and election result’s impact on unemployment rate and minimum wages in different counties.
-  * Wrangled, organized, and explored the features of datasets from various sources.
-  * Prepared reports with visualizations for presentations.
-
-* **Baltimore Crime Analysis: python | MySQL | AWS | Tableau**	[(Demo)](https://public.tableau.com/app/profile/dishant.fapot/viz/Project1_16383109555130/Story1)
-  * Split the dataset into multiple tables and used AWS to build the basic data lake with S3 service and created crawlers.
-  * Used AWS Athena as interactive query service to perform various operation in database.
-  * Connected AWS server to visualization tool tableau to create a visualized story get insight about the data, find outliers and draw conclusions to decrease crimes in the city.
-
-
-
-## RECOGNITION
-- Secured   first   place,   “Project   problem   in   electronics   & telecommunication engineering Competition” held at RAIT, Navi Mumbai; 											Jan 2019
-- Successfully organized event in technical fest of RAIT;						Oct 2018
--	Member of the Institution of Electronics and Telecommunication Engineers;  			Dec 2016 to Mar 2020
+* **Challenge 5: Human Collaboration-** A big data analysis system has to accommodate input from various human specialists as well as collaborative results exploration, which is still not as efficient as it has to be.
 
