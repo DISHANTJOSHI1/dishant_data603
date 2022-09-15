@@ -1,16 +1,15 @@
-![This is an image](https://avatars.githubusercontent.com/u/51368258?s=400&u=a22975ac64d1f5cf9ec0079e25fbe2b86b40093f&v=4.jpg)
-
 # Dishant Fapot
-_I want to be a successful Data Scientist and start my own organization in the field of Data._
-
-## CONTACT
-- 443 501 6659
-- _[LinkedIn](https://www.linkedin.com/in/dishantfapot/)_
-- _dishantfapot@gmail.com_
 
 
+### Big Data with example and types
+_Big Data is a collection of huge data coming from variety of online or offline sources in digital form growing exponentially. Types of Big Datas are as follows:_
+- **Structured Big Data:** Data which can be stored, accessed or processed in a fixed format is a type of structured big data. For e.g., table containing strings, int or any character like a worksheet. 
+- **Unstructured Big Data:** Data with unknown structure or format in unstructure big data. Image file, videos, audio, etc.
+- **Semi-Structured Big Data:** This type of big data contains both the forms of the other forms of big data which visually looks like a structured but is actually unstrucutre. e.g., xml file.
 
-## EDUCATION
+
+
+###  6 ‘V’s of Big Data (define each)
 
 * University of Maryland - Baltimore County (UMBC); 2021 to 2023 
   * **M.P.S. in Data Science** 
