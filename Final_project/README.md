@@ -27,8 +27,7 @@
 * Kafka
 
 # Run Instructions
-## To run this we are using kafka. So we need to first activate the kafka and zookeeper in the background using the foolowing commands. This cammands are 
-## for macOS
+## To run this we are using kafka. So we need to first activate the kafka and zookeeper in the background using the foolowing commands. This cammands are for macOS
 
 * All commands need to be run from new terminal from Kafka downloaded location 
 
