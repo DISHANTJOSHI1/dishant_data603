@@ -27,6 +27,22 @@
 * Kafka
 
 # Run Instructions
+## To run this we are using kafka. So we need to first activate the kafka and zookeeper in the background using the foolowing commands. This cammands are 
+## for macOS
+
+* All commands need to be run from new terminal from Kafka downloaded location 
+
+* sh bin/zookeeper-server-start.sh config/zookeeper.properties
+
+
+* bin/kafka-server-start.sh config/server.properties
+
+
+* ./bin.kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic topic1
+
+
+* ./bin/kafka-console-producer.sh --broker-list localhost:9092 --topic topic1
+
 ## Run the files below in the following order.
 ## 1. producer_a.py
 ## 2. consumer_a.py
